@@ -11,7 +11,7 @@ Sure, it can be used to increase the wealth of a room but wait, what's this? Scu
 
 Time to fix this! Since most stuff that can be placed on Equipment Racks now have a negative beauty value, let's give a beauty value to this piece of furniture. Problem solved, now there's one stat that scales with quality. Yay!
 
-But wait, what's this? Want to shove that nice Marble Equipment Rack into the hospital so you can have an aesthetic drug cabinet? Nope, you can't store that there. OR CAN YOU? From now on, everything that's under the categories "Items" and "Manufactured" can be stored there. Easy fix, easy life.
+But wait, there's more! Want to shove that nice Marble Equipment Rack into the hospital so you can have an aesthetic drug/medicine cabinet? Nope, you can't store that there. OR CAN YOU? From now on, everything that's under the categories "Items" and "Manufactured" can be stored there. Easy fix, easy life.
 
 # Compatibility
 In case it wasn't obvious, this mod is incompatible with any other that changes the Equipment Racks.
