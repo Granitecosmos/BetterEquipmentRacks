@@ -3,6 +3,6 @@
 		<name>Better Equipment Racks</name>
 		<author>Granitecosmos</author>
 		<url></url>
-		<targetVersion>0.16.0</targetVersion>
+		<targetVersion>0.17.1557</targetVersion>
 		<description>Equipment Racks now have a base beauty value of 6 to somewhat offset the negative beauty of items it can hold. They can also hold any item in the categories "Manufactured" and "Items" now.</description>
 </ModMetaData>
