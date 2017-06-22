@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Buildings/ThingDef[defName = "Shelf"]/statBases</xpath>
+		<Value>
+			<Beauty>6</Beauty>
+		</Value>
+	</Operation>
+</Patch>
