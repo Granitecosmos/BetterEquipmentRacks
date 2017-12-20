@@ -1,9 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <Patch>
-	<Operation Class="PatchOperationAdd">
-		<xpath>/Buildings/ThingDef[defName = "Shelf"]/statBases</xpath>
-		<Value>
-			<Beauty>6</Beauty>
-		</Value>
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/ThingDef[defName = "Shelf"]/statBases</xpath>
+				<value>
+					<Beauty>4</Beauty>
+				</value>
+			</li>
+		</operations>
 	</Operation>
 </Patch>
